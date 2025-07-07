@@ -3,7 +3,7 @@
 
 This program reads a C source file (`sample.txt`) and tokenizes it into keywords, identifiers, operators, and punctuators. It also skips single-line comments (`//`).
 
-# How to Use
+How to Use
 
 1. Put your C code in `sample.txt`.  
 2. Compile the program:
