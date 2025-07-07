@@ -1,14 +1,14 @@
-# S7-LAB
-#First Experiment
-#SIMPLE LEXER IN C
+**First Experiment**  
+*SIMPLE LEXER IN C*
 
-This program reads a C source file (sample.txt) and tokenizes it into keywords, identifiers, operators, and punctuators. It also skips single-line comments (//).
-How to Use
+This program reads a C source file (`sample.txt`) and tokenizes it into keywords, identifiers, operators, and punctuators. It also skips single-line comments (`//`).
 
-    Put your C code in sample.txt.
+## How to Use
 
-    Compile the program:
+1. Put your C code in `sample.txt`.  
+2. Compile the program:
 
+```bash
 gcc lexer.c -o lexer
 
     Run it:
